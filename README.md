@@ -7,3 +7,6 @@ A Python script utilizing the pyserial library to enable uploading of compiled b
 The program also implements basic error checking to enhance reliability. This includes waiting for acknowledgments (ACK) after sending the file size and each data chunk with exceptions raised if the expected 0x06 byte is not received. A final acknowledgment confirms successful file transfer. The script also employs a try-except block to catch and handle various error types, including serial communication errors, file I/O errors, and general exceptions. Additionally, a CRC32 calculation function is provided, which can be integrated for further verify data integrity if needed.
 
 WARNING: This program is pre-release; it is buggy and not production ready if at all functional. it is available here for testing purposes. 
+
+## License
+This project is licensed under the GNU General Public License v3.0 (GPLv3).  
