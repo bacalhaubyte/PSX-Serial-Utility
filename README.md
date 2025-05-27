@@ -6,4 +6,4 @@ PSX Serial transfers binary data in 1024-byte chunks from the host PC to PSX con
 WARNING: This program is a work in progress; it is buggy and not production-ready. 
 
 ## License
-This project is licensed under the GNU General Public License v3.0 (GPLv3).  
+This project is licensed under the GNU General Public License v3. Attribution should go to [RetroGameplayer.com](http://retrogameplayer.com)
